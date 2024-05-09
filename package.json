@@ -1,0 +1,14 @@
+{
+  "name": "phblog",
+  "version": "1.0.0",
+  "description": "Notre entreprise spécialisée dans le développement web est à la recherche d'un développeur PHP 8 talentueux pour réaliser un projet de blog personnel. Le projet consiste à développer un système de gestion de blog personnel avec des fonctionnalités avancées telles que l'ajout d'articles contenant des images, des titres, des sous-titres et des descriptions, ainsi qu'un mode administrateur pour gérer le contenu du blog. Les utilisateurs enregistrés pourront commenter et liker les articles, tandis que les visiteurs non enregistrés ne pourront que consulter les articles publiés.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
