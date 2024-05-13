@@ -5,3 +5,14 @@
 .btn{
     background-color: #504040;
 }
+h1{
+    color: blue;
+}
+.header{
+    height: 40vh;
+}
+.img-article img{
+    width:100%;
+    height: 65vh !important;
+    max-width: 100%;
+}
