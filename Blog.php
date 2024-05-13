@@ -7,7 +7,7 @@
     <link href="/dist/output.css" rel="stylesheet">
 </head>
 <body>
-
+<?php include 'navbar.php'; ?>
     <section class="px-52 py-20 justify-center items-center">
         <div class="flex gap-5 items-center text-gray-600 mt-5 hover:text-gray-900 cursor-pointer">
             <!-- Intégration de l'icône SVG -->
@@ -351,6 +351,7 @@
      </div>
         
     </section>
+    <?php include 'footer.php'; ?>
     
 </body>
 </html>

@@ -8,9 +8,10 @@
 </head>
 <body class="justify-center flex">
    
-
+<?php include 'navbar.php'; ?>
 <!-- Container for demo purpose -->
 <section class="container  items-center flex justify-center my-24    md:px-6">
+
     <!-- Section: Design Block -->
     <div class="mb-32   elative items-center justify-center p-20  md:w-10/12 bg-white border  border-gray-200 shadow-lg rounded-2xl">
       <!-- Single article -->
@@ -123,8 +124,10 @@
     </div>
     
     <!-- Section: Design Block -->
-  </section>
-  <!-- Container for demo purpose -->
+</section>
+<?php include 'footer.php'; ?>
+
+
 </body>
 </html>
 
